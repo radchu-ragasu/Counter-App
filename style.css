@@ -1,3 +1,27 @@
 #number{
-    font-size: 45;
+    font-size: 60;
+    color: brown;
+    text-align: center;
+}
+
+#heading{
+    font-size: 70;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chocolate;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    font-size: 45px;
+    margin: 10 15;
+    background-color: darksalmon;
+    color: crimson;
+    border-radius: 50px;
+    padding: 5px 25px;
 }
