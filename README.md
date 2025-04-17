@@ -1,4 +1,4 @@
-# Counter App 🚀
+# Counter App 
 
 This is a simple web-based Counter App built with **HTML**, **CSS**, and **JavaScript**.  
 It allows you to:
@@ -10,7 +10,7 @@ It allows you to:
 
 ---
 
-## 🧠 Features
+## Features
 
 - Interactive counter display
 - Alert when trying to go below 0
